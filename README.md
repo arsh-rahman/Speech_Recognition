@@ -1,7 +1,6 @@
 # GSoC 2021 : Speech Recognition using OpenCV
 
 ## Overview
-Mentor : Liubov Batanina @l-bat \
 Proposal for the project : [https://summerofcode.withgoogle.com/projects/#5148521881141248](https://summerofcode.withgoogle.com/projects/5148521881141248)\
 Link for Pull Request : [https://github.com/opencv/opencv/pull/20291](https://github.com/opencv/opencv/pull/20291)\
 Link to pre-trained model : [https://drive.google.com/drive/folders/1wLtxyao4ItAg8tt4Sb63zt6qXzhcQoR6?usp=sharing](https://drive.google.com/drive/folders/1wLtxyao4ItAg8tt4Sb63zt6qXzhcQoR6?usp=sharing)
